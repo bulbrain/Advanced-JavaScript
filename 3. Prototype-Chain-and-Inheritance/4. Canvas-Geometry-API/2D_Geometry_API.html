@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>2D Geometry - API</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="2D_Geometry_API.js"></script>
+</head>
+<body>
+<form id="form">
+    <fieldset>
+        <label for="X">X:</label>
+        <input type="text" name="X" id="X">
+        <label for="Y">Y:</label>
+        <input type="text" name="Y" id="Y">
+        <label for="color" id="colorLabel" hidden>Color:</label>
+        <input type="color" name="color" id="color" hidden><br>
+
+        <label for="shape">Shape:</label>
+        <select name="shape" id="shape" onchange="selectFunc()">
+            <option value="Line">Line</option>
+            <option value="Segment">Segment</option>
+            <option value="Circle">Circle</option>
+            <option value="Triangle">Triangle</option>
+            <option value="Rectangle">Rectangle</option>
+        </select>
+        <label for="radius" hidden id="radiusLabel">Radius:</label>
+        <input type="text" name="radius" id="radius" hidden><br>
+
+        <label for="X2" id="X2label">X2:</label>
+        <input type="text" name="X2" id="X2">
+        <label for="Y2" id="Y2label">Y2:</label>
+        <input type="text" name="Y2" id="Y2"><br>
+
+        <label for="X3" hidden id="X3label">X3:</label>
+        <input type="text" name="X3" id="X3" hidden>
+        <label for="Y" hidden id="Y3label">Y3:</label>
+        <input type="text" name="Y3" id="Y3" hidden><br>
+
+        <textarea id="text" rows="7" cols="30"></textarea><br>
+
+        <button type="button" id="sub" onclick="drawFunc()">Add</button>
+        <button type="button" id="clear" onclick="clearFunc()">Clear current</button>
+        <button type="button" id="clearAll" onclick="clearAllFunc()">Clear All</button>
+    </fieldset>
+</form>
+<canvas id="canvas" width="300" height="260"></canvas>
+</body>
+</html>

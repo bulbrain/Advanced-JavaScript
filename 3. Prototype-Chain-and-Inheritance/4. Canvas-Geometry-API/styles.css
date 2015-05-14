@@ -1,0 +1,34 @@
+#form, #canvas {
+    width: 300px;
+    height: 260px;
+    display: inline-block;
+    float: left;
+    border: 2px groove threedface;
+}
+
+#form fieldset {
+    border: none;
+}
+
+#X, #Y, #radius {
+    width: 50px;
+}
+
+#X2, #Y2, #X3, #Y3 {
+    margin-top: 5px;
+    width: 50px;
+}
+
+#color {
+    width: 50px;
+}
+
+#shape {
+    margin-top: 5px;
+}
+
+#text {
+    margin-top: 5px;
+    resize: none;
+    white-space: nowrap;
+}

@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b1a43c5-0074-4081-af5d-9b94093ff0be" name="Default" comment="" />
+    <ignored path="3. Prototype-Chain-and-Inheritance.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="3. Prototype-Chain-and-Inheritance" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="2D_Geometry_Classical_Model.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1. 2D-Geometry-Structure-Pseudo-Classical-Model/2D_Geometry_Classical_Model.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2261">
+              <caret line="102" column="48" selection-start-line="102" selection-start-column="48" selection-end-line="102" selection-end-column="48" />
+              <folding>
+                <element signature="e#91#559#0" expanded="true" />
+                <element signature="e#147#401#0" expanded="true" />
+                <element signature="e#458#529#0" expanded="true" />
+                <element signature="e#595#1147#0" expanded="true" />
+                <element signature="e#644#783#0" expanded="true" />
+                <element signature="e#948#1116#0" expanded="true" />
+                <element signature="e#1187#1835#0" expanded="true" />
+                <element signature="e#1246#1418#0" expanded="true" />
+                <element signature="e#1595#1801#0" expanded="true" />
+                <element signature="e#1874#2478#0" expanded="true" />
+                <element signature="e#1933#2053#0" expanded="true" />
+                <element signature="e#2226#2445#0" expanded="true" />
+                <element signature="e#2513#3035#0" expanded="true" />
+                <element signature="e#2560#2672#0" expanded="true" />
+                <element signature="e#2829#3006#0" expanded="true" />
+                <element signature="e#3123#3235#0" expanded="true" />
+                <element signature="e#3404#3581#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2D_Geometry_Prototypal_Model.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2. 2D-Geometry-Structure-Prototypal-Model/2D_Geometry_Prototypal_Model.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1639" max-vertical-offset="2040">
+              <caret line="114" column="37" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#45#0" expanded="false" />
+                <element signature="e#94#296#0" expanded="true" />
+                <element signature="e#312#3257#0" expanded="true" />
+                <element signature="e#331#786#0" expanded="true" />
+                <element signature="e#395#665#0" expanded="true" />
+                <element signature="e#705#780#0" expanded="true" />
+                <element signature="e#820#1260#0" expanded="true" />
+                <element signature="e#876#1050#0" expanded="true" />
+                <element signature="e#1090#1254#0" expanded="true" />
+                <element signature="e#1299#1820#0" expanded="true" />
+                <element signature="e#1362#1572#0" expanded="true" />
+                <element signature="e#1612#1814#0" expanded="true" />
+                <element signature="e#1858#2340#0" expanded="true" />
+                <element signature="e#1922#2079#0" expanded="true" />
+                <element signature="e#2119#2334#0" expanded="true" />
+                <element signature="e#2374#2794#0" expanded="true" />
+                <element signature="e#2430#2575#0" expanded="true" />
+                <element signature="e#2615#2788#0" expanded="true" />
+                <element signature="e#2831#3254#0" expanded="true" />
+                <element signature="e#2887#3035#0" expanded="true" />
+                <element signature="e#3075#3248#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2D_Geometry_Canvas.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3. 2D-Geometry-Canvas/2D_Geometry_Canvas.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1734" max-vertical-offset="2618">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#45#0" expanded="false" />
+                <element signature="e#395#790#0" expanded="true" />
+                <element signature="e#455#685#0" expanded="true" />
+                <element signature="e#721#788#0" expanded="true" />
+                <element signature="e#820#1407#0" expanded="true" />
+                <element signature="e#872#1026#0" expanded="true" />
+                <element signature="e#1062#1214#0" expanded="true" />
+                <element signature="e#1242#1405#0" expanded="true" />
+                <element signature="e#1441#2055#0" expanded="true" />
+                <element signature="e#1500#1686#0" expanded="true" />
+                <element signature="e#1722#1912#0" expanded="true" />
+                <element signature="e#1940#2053#0" expanded="true" />
+                <element signature="e#2088#2767#0" expanded="true" />
+                <element signature="e#2148#2289#0" expanded="true" />
+                <element signature="e#2325#2528#0" expanded="true" />
+                <element signature="e#2556#2765#0" expanded="true" />
+                <element signature="e#2796#3338#0" expanded="true" />
+                <element signature="e#2848#2977#0" expanded="true" />
+                <element signature="e#3013#3174#0" expanded="true" />
+                <element signature="e#3202#3336#0" expanded="true" />
+                <element signature="e#3370#3915#0" expanded="true" />
+                <element signature="e#3422#3554#0" expanded="true" />
+                <element signature="e#3590#3751#0" expanded="true" />
+                <element signature="e#3779#3913#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2D_Geometry_Canvas.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3. 2D-Geometry-Canvas/2D_Geometry_Canvas.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="272">
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2D_Geometry_API.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4. Canvas-Geometry-API/2D_Geometry_API.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="918">
+              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4. Canvas-Geometry-API/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="262" max-vertical-offset="663">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2D_Geometry_API.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4. Canvas-Geometry-API/2D_Geometry_API.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6359102" vertical-offset="1632" max-vertical-offset="4777">
+              <caret line="113" column="24" selection-start-line="113" selection-start-column="24" selection-end-line="113" selection-end-column="24" />
+              <folding>
+                <element signature="n#!!doc;n#selectFunc#0" expanded="false" />
+                <element signature="n#!!block;n#selectFunc#0" expanded="true" />
+                <element signature="e#2298#2500#0" expanded="true" />
+                <element signature="e#2516#2808#0" expanded="true" />
+                <element signature="e#2576#2806#0" expanded="true" />
+                <element signature="e#2890#3044#0" expanded="true" />
+                <element signature="e#3371#3858#0" expanded="true" />
+                <element signature="e#3430#3616#0" expanded="true" />
+                <element signature="e#3644#3856#0" expanded="true" />
+                <element signature="e#3891#4433#0" expanded="true" />
+                <element signature="e#3951#4092#0" expanded="true" />
+                <element signature="e#4120#4431#0" expanded="true" />
+                <element signature="e#4462#4907#0" expanded="true" />
+                <element signature="e#4514#4643#0" expanded="true" />
+                <element signature="e#4671#4905#0" expanded="true" />
+                <element signature="e#4939#5387#0" expanded="true" />
+                <element signature="e#4991#5123#0" expanded="true" />
+                <element signature="e#5151#5385#0" expanded="true" />
+                <element signature="n#!!block;n#drawFunc#0" expanded="true" />
+                <element signature="n#!!block;n#clearAllFunc#0" expanded="true" />
+                <element signature="n#!!block;n#clearFunc#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EcmaScript.js" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="15946">
+              <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/1. 2D-Geometry-Structure-Pseudo-Classical-Model/2D_Geometry.js" />
+        <option value="$PROJECT_DIR$/2D-Geometry-Canvas/canvas.js" />
+        <option value="$PROJECT_DIR$/2D-Geometry-Canvas/2D_Geometry_Canvas.html" />
+        <option value="$PROJECT_DIR$/2D-Geometry-Canvas/2D_Geometry_Prototypal_Model.js" />
+        <option value="$PROJECT_DIR$/4. Canvas-Geometry-API/styles.css" />
+        <option value="$PROJECT_DIR$/4. Canvas-Geometry-API/2D_Geometry_API.html" />
+        <option value="$PROJECT_DIR$/1. 2D-Geometry-Structure-Pseudo-Classical-Model/2D_Geometry_Classical_Model.js" />
+        <option value="$PROJECT_DIR$/2. 2D-Geometry-Structure-Prototypal-Model/2D_Geometry_Prototypal_Model.js" />
+        <option value="$PROJECT_DIR$/3. 2D-Geometry-Canvas/2D_Geometry_Canvas.js" />
+        <option value="$PROJECT_DIR$/4. Canvas-Geometry-API/2D_Geometry_API.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3. Prototype-Chain-and-Inheritance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3. Prototype-Chain-and-Inheritance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3. Prototype-Chain-and-Inheritance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="4. Canvas-Geometry-API" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3. Prototype-Chain-and-Inheritance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3. Prototype-Chain-and-Inheritance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3. 2D-Geometry-Canvas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3. Prototype-Chain-and-Inheritance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3. Prototype-Chain-and-Inheritance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2. 2D-Geometry-Structure-Prototypal-Model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3. Prototype-Chain-and-Inheritance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3. Prototype-Chain-and-Inheritance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1. 2D-Geometry-Structure-Pseudo-Classical-Model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\SoftUni\2\Homework\2.3 Advanced-JavaScript\3. Prototype-Chain-and-Inheritance\4. Canvas-Geometry-API" />
+      <recent name="F:\SoftUni\2\Homework\2.3 Advanced-JavaScript\3. Prototype-Chain-and-Inheritance\2D-Geometry-Canvas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.2D_Geometry_Canvas.js">
+    <configuration default="false" name="2D_Geometry_Classical_Model.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="2D_Geometry_Classical_Model.js" working-dir="$PROJECT_DIR$/1. 2D-Geometry-Structure-Pseudo-Classical-Model">
+      <RunnerSettings RunnerId="Basic" />
+      <RunnerSettings RunnerId="debuggableProgram" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="debuggableProgram" />
+      <method />
+    </configuration>
+    <configuration default="false" name="2D_Geometry_Prototypal_Model.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="2D_Geometry_Prototypal_Model.js" working-dir="$PROJECT_DIR$/2. 2D-Geometry-Structure-Prototypal-Model">
+      <RunnerSettings RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <method />
+    </configuration>
+    <configuration default="false" name="2D_Geometry_Canvas.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="2D_Geometry_Canvas.js" working-dir="$PROJECT_DIR$/3. 2D-Geometry-Canvas">
+      <RunnerSettings RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.2D_Geometry_Classical_Model.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.2D_Geometry_Prototypal_Model.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.2D_Geometry_Canvas.js" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.2D_Geometry_Canvas.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.2D_Geometry_Prototypal_Model.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.2D_Geometry_Classical_Model.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b1a43c5-0074-4081-af5d-9b94093ff0be" name="Default" comment="" />
+      <created>1426596173028</created>
+      <option name="number" value="Default" />
+      <updated>1426596173028</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32440946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1. 2D-Geometry-Structure-Pseudo-Classical-Model/2D_Geometry_Classical_Model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1771" max-vertical-offset="2261">
+          <caret line="102" column="48" selection-start-line="102" selection-start-column="48" selection-end-line="102" selection-end-column="48" />
+          <folding>
+            <element signature="e#91#559#0" expanded="true" />
+            <element signature="e#147#401#0" expanded="true" />
+            <element signature="e#458#529#0" expanded="true" />
+            <element signature="e#595#1147#0" expanded="true" />
+            <element signature="e#644#783#0" expanded="true" />
+            <element signature="e#948#1116#0" expanded="true" />
+            <element signature="e#1187#1835#0" expanded="true" />
+            <element signature="e#1246#1418#0" expanded="true" />
+            <element signature="e#1595#1801#0" expanded="true" />
+            <element signature="e#1874#2478#0" expanded="true" />
+            <element signature="e#1933#2053#0" expanded="true" />
+            <element signature="e#2226#2445#0" expanded="true" />
+            <element signature="e#2513#3035#0" expanded="true" />
+            <element signature="e#2560#2672#0" expanded="true" />
+            <element signature="e#2829#3006#0" expanded="true" />
+            <element signature="e#3123#3235#0" expanded="true" />
+            <element signature="e#3404#3581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. 2D-Geometry-Structure-Prototypal-Model/2D_Geometry_Prototypal_Model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1652" max-vertical-offset="2040">
+          <caret line="114" column="37" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#94#296#0" expanded="true" />
+            <element signature="e#312#3257#0" expanded="true" />
+            <element signature="e#331#786#0" expanded="true" />
+            <element signature="e#395#665#0" expanded="true" />
+            <element signature="e#705#780#0" expanded="true" />
+            <element signature="e#820#1260#0" expanded="true" />
+            <element signature="e#876#1050#0" expanded="true" />
+            <element signature="e#1090#1254#0" expanded="true" />
+            <element signature="e#1299#1820#0" expanded="true" />
+            <element signature="e#1362#1572#0" expanded="true" />
+            <element signature="e#1612#1814#0" expanded="true" />
+            <element signature="e#1858#2340#0" expanded="true" />
+            <element signature="e#1922#2079#0" expanded="true" />
+            <element signature="e#2119#2334#0" expanded="true" />
+            <element signature="e#2374#2794#0" expanded="true" />
+            <element signature="e#2430#2575#0" expanded="true" />
+            <element signature="e#2615#2788#0" expanded="true" />
+            <element signature="e#2831#3254#0" expanded="true" />
+            <element signature="e#2887#3035#0" expanded="true" />
+            <element signature="e#3075#3248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. 2D-Geometry-Canvas/2D_Geometry_Canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="2618">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#395#790#0" expanded="true" />
+            <element signature="e#455#685#0" expanded="true" />
+            <element signature="e#721#788#0" expanded="true" />
+            <element signature="e#820#1407#0" expanded="true" />
+            <element signature="e#872#1026#0" expanded="true" />
+            <element signature="e#1062#1214#0" expanded="true" />
+            <element signature="e#1242#1405#0" expanded="true" />
+            <element signature="e#1441#2055#0" expanded="true" />
+            <element signature="e#1500#1686#0" expanded="true" />
+            <element signature="e#1722#1912#0" expanded="true" />
+            <element signature="e#1940#2053#0" expanded="true" />
+            <element signature="e#2088#2767#0" expanded="true" />
+            <element signature="e#2148#2289#0" expanded="true" />
+            <element signature="e#2325#2528#0" expanded="true" />
+            <element signature="e#2556#2765#0" expanded="true" />
+            <element signature="e#2796#3338#0" expanded="true" />
+            <element signature="e#2848#2977#0" expanded="true" />
+            <element signature="e#3013#3174#0" expanded="true" />
+            <element signature="e#3202#3336#0" expanded="true" />
+            <element signature="e#3370#3915#0" expanded="true" />
+            <element signature="e#3422#3554#0" expanded="true" />
+            <element signature="e#3590#3751#0" expanded="true" />
+            <element signature="e#3779#3913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. 2D-Geometry-Canvas/2D_Geometry_Canvas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Canvas-Geometry-API/2D_Geometry_API.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="33" max-vertical-offset="918">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Canvas-Geometry-API/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="262" max-vertical-offset="663">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Canvas-Geometry-API/2D_Geometry_API.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4743">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#selectFunc#0" expanded="false" />
+            <element signature="n#!!block;n#selectFunc#0" expanded="true" />
+            <element signature="e#2298#2500#0" expanded="true" />
+            <element signature="e#2516#2808#0" expanded="true" />
+            <element signature="e#2576#2806#0" expanded="true" />
+            <element signature="e#2890#3044#0" expanded="true" />
+            <element signature="e#3371#3858#0" expanded="true" />
+            <element signature="e#3430#3616#0" expanded="true" />
+            <element signature="e#3644#3856#0" expanded="true" />
+            <element signature="e#3891#4433#0" expanded="true" />
+            <element signature="e#3951#4092#0" expanded="true" />
+            <element signature="e#4120#4431#0" expanded="true" />
+            <element signature="e#4462#4907#0" expanded="true" />
+            <element signature="e#4514#4643#0" expanded="true" />
+            <element signature="e#4671#4905#0" expanded="true" />
+            <element signature="e#4939#5387#0" expanded="true" />
+            <element signature="e#4991#5123#0" expanded="true" />
+            <element signature="e#5151#5385#0" expanded="true" />
+            <element signature="n#!!block;n#drawFunc#0" expanded="true" />
+            <element signature="n#!!block;n#clearAllFunc#0" expanded="true" />
+            <element signature="n#!!block;n#clearFunc#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="15946">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. 2D-Geometry-Structure-Pseudo-Classical-Model/2D_Geometry_Classical_Model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="646">
+          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
+          <folding>
+            <element signature="e#91#559#0" expanded="true" />
+            <element signature="e#147#401#0" expanded="true" />
+            <element signature="e#458#529#0" expanded="true" />
+            <element signature="e#595#1147#0" expanded="true" />
+            <element signature="e#644#783#0" expanded="true" />
+            <element signature="e#948#1116#0" expanded="true" />
+            <element signature="e#1187#1835#0" expanded="true" />
+            <element signature="e#1246#1418#0" expanded="true" />
+            <element signature="e#1595#1801#0" expanded="true" />
+            <element signature="e#1874#2478#0" expanded="true" />
+            <element signature="e#1933#2053#0" expanded="true" />
+            <element signature="e#2226#2445#0" expanded="true" />
+            <element signature="e#2513#3035#0" expanded="true" />
+            <element signature="e#2560#2672#0" expanded="true" />
+            <element signature="e#2829#3006#0" expanded="true" />
+            <element signature="e#3123#3235#0" expanded="true" />
+            <element signature="e#3404#3581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. 2D-Geometry-Structure-Prototypal-Model/2D_Geometry_Prototypal_Model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="544">
+          <caret line="88" column="2" selection-start-line="88" selection-start-column="2" selection-end-line="88" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#94#296#0" expanded="true" />
+            <element signature="e#312#3257#0" expanded="true" />
+            <element signature="e#331#786#0" expanded="true" />
+            <element signature="e#395#665#0" expanded="true" />
+            <element signature="e#705#780#0" expanded="true" />
+            <element signature="e#820#1260#0" expanded="true" />
+            <element signature="e#876#1050#0" expanded="true" />
+            <element signature="e#1090#1254#0" expanded="true" />
+            <element signature="e#1299#1820#0" expanded="true" />
+            <element signature="e#1362#1572#0" expanded="true" />
+            <element signature="e#1612#1814#0" expanded="true" />
+            <element signature="e#1858#2340#0" expanded="true" />
+            <element signature="e#1922#2079#0" expanded="true" />
+            <element signature="e#2119#2334#0" expanded="true" />
+            <element signature="e#2374#2794#0" expanded="true" />
+            <element signature="e#2430#2575#0" expanded="true" />
+            <element signature="e#2615#2788#0" expanded="true" />
+            <element signature="e#2831#3254#0" expanded="true" />
+            <element signature="e#2887#3035#0" expanded="true" />
+            <element signature="e#3075#3248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. 2D-Geometry-Canvas/2D_Geometry_Canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="799">
+          <caret line="157" column="47" selection-start-line="157" selection-start-column="47" selection-end-line="157" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#395#790#0" expanded="true" />
+            <element signature="e#455#685#0" expanded="true" />
+            <element signature="e#721#788#0" expanded="true" />
+            <element signature="e#820#1407#0" expanded="true" />
+            <element signature="e#872#1026#0" expanded="true" />
+            <element signature="e#1062#1214#0" expanded="true" />
+            <element signature="e#1242#1405#0" expanded="true" />
+            <element signature="e#1441#2055#0" expanded="true" />
+            <element signature="e#1500#1686#0" expanded="true" />
+            <element signature="e#1722#1912#0" expanded="true" />
+            <element signature="e#1940#2053#0" expanded="true" />
+            <element signature="e#2088#2767#0" expanded="true" />
+            <element signature="e#2148#2289#0" expanded="true" />
+            <element signature="e#2325#2528#0" expanded="true" />
+            <element signature="e#2556#2765#0" expanded="true" />
+            <element signature="e#2796#3338#0" expanded="true" />
+            <element signature="e#2848#2977#0" expanded="true" />
+            <element signature="e#3013#3174#0" expanded="true" />
+            <element signature="e#3202#3336#0" expanded="true" />
+            <element signature="e#3370#3915#0" expanded="true" />
+            <element signature="e#3422#3554#0" expanded="true" />
+            <element signature="e#3590#3751#0" expanded="true" />
+            <element signature="e#3779#3913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. 2D-Geometry-Canvas/2D_Geometry_Canvas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Canvas-Geometry-API/2D_Geometry_API.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="918">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Canvas-Geometry-API/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="663">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Canvas-Geometry-API/2D_Geometry_API.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#selectFunc#0" expanded="false" />
+            <element signature="n#!!block;n#selectFunc#0" expanded="true" />
+            <element signature="e#2298#2500#0" expanded="true" />
+            <element signature="e#2516#2808#0" expanded="true" />
+            <element signature="e#2576#2806#0" expanded="true" />
+            <element signature="e#2890#3044#0" expanded="true" />
+            <element signature="e#3371#3858#0" expanded="true" />
+            <element signature="e#3430#3616#0" expanded="true" />
+            <element signature="e#3644#3856#0" expanded="true" />
+            <element signature="e#3891#4433#0" expanded="true" />
+            <element signature="e#3951#4092#0" expanded="true" />
+            <element signature="e#4120#4431#0" expanded="true" />
+            <element signature="e#4462#4907#0" expanded="true" />
+            <element signature="e#4514#4643#0" expanded="true" />
+            <element signature="e#4671#4905#0" expanded="true" />
+            <element signature="e#4939#5387#0" expanded="true" />
+            <element signature="e#4991#5123#0" expanded="true" />
+            <element signature="e#5151#5385#0" expanded="true" />
+            <element signature="n#!!block;n#drawFunc#0" expanded="true" />
+            <element signature="n#!!block;n#clearAllFunc#0" expanded="true" />
+            <element signature="n#!!block;n#clearFunc#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="15946">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. 2D-Geometry-Structure-Pseudo-Classical-Model/2D_Geometry_Classical_Model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="646">
+          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
+          <folding>
+            <element signature="e#91#559#0" expanded="true" />
+            <element signature="e#147#401#0" expanded="true" />
+            <element signature="e#458#529#0" expanded="true" />
+            <element signature="e#595#1147#0" expanded="true" />
+            <element signature="e#644#783#0" expanded="true" />
+            <element signature="e#948#1116#0" expanded="true" />
+            <element signature="e#1187#1835#0" expanded="true" />
+            <element signature="e#1246#1418#0" expanded="true" />
+            <element signature="e#1595#1801#0" expanded="true" />
+            <element signature="e#1874#2478#0" expanded="true" />
+            <element signature="e#1933#2053#0" expanded="true" />
+            <element signature="e#2226#2445#0" expanded="true" />
+            <element signature="e#2513#3035#0" expanded="true" />
+            <element signature="e#2560#2672#0" expanded="true" />
+            <element signature="e#2829#3006#0" expanded="true" />
+            <element signature="e#3123#3235#0" expanded="true" />
+            <element signature="e#3404#3581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. 2D-Geometry-Structure-Prototypal-Model/2D_Geometry_Prototypal_Model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="544">
+          <caret line="88" column="2" selection-start-line="88" selection-start-column="2" selection-end-line="88" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#94#296#0" expanded="true" />
+            <element signature="e#312#3257#0" expanded="true" />
+            <element signature="e#331#786#0" expanded="true" />
+            <element signature="e#395#665#0" expanded="true" />
+            <element signature="e#705#780#0" expanded="true" />
+            <element signature="e#820#1260#0" expanded="true" />
+            <element signature="e#876#1050#0" expanded="true" />
+            <element signature="e#1090#1254#0" expanded="true" />
+            <element signature="e#1299#1820#0" expanded="true" />
+            <element signature="e#1362#1572#0" expanded="true" />
+            <element signature="e#1612#1814#0" expanded="true" />
+            <element signature="e#1858#2340#0" expanded="true" />
+            <element signature="e#1922#2079#0" expanded="true" />
+            <element signature="e#2119#2334#0" expanded="true" />
+            <element signature="e#2374#2794#0" expanded="true" />
+            <element signature="e#2430#2575#0" expanded="true" />
+            <element signature="e#2615#2788#0" expanded="true" />
+            <element signature="e#2831#3254#0" expanded="true" />
+            <element signature="e#2887#3035#0" expanded="true" />
+            <element signature="e#3075#3248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. 2D-Geometry-Canvas/2D_Geometry_Canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="799">
+          <caret line="157" column="47" selection-start-line="157" selection-start-column="47" selection-end-line="157" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#395#790#0" expanded="true" />
+            <element signature="e#455#685#0" expanded="true" />
+            <element signature="e#721#788#0" expanded="true" />
+            <element signature="e#820#1407#0" expanded="true" />
+            <element signature="e#872#1026#0" expanded="true" />
+            <element signature="e#1062#1214#0" expanded="true" />
+            <element signature="e#1242#1405#0" expanded="true" />
+            <element signature="e#1441#2055#0" expanded="true" />
+            <element signature="e#1500#1686#0" expanded="true" />
+            <element signature="e#1722#1912#0" expanded="true" />
+            <element signature="e#1940#2053#0" expanded="true" />
+            <element signature="e#2088#2767#0" expanded="true" />
+            <element signature="e#2148#2289#0" expanded="true" />
+            <element signature="e#2325#2528#0" expanded="true" />
+            <element signature="e#2556#2765#0" expanded="true" />
+            <element signature="e#2796#3338#0" expanded="true" />
+            <element signature="e#2848#2977#0" expanded="true" />
+            <element signature="e#3013#3174#0" expanded="true" />
+            <element signature="e#3202#3336#0" expanded="true" />
+            <element signature="e#3370#3915#0" expanded="true" />
+            <element signature="e#3422#3554#0" expanded="true" />
+            <element signature="e#3590#3751#0" expanded="true" />
+            <element signature="e#3779#3913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. 2D-Geometry-Canvas/2D_Geometry_Canvas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="272">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Canvas-Geometry-API/2D_Geometry_API.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="918">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Canvas-Geometry-API/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="663">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Canvas-Geometry-API/2D_Geometry_API.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#selectFunc#0" expanded="false" />
+            <element signature="n#!!block;n#selectFunc#0" expanded="true" />
+            <element signature="e#2298#2500#0" expanded="true" />
+            <element signature="e#2516#2808#0" expanded="true" />
+            <element signature="e#2576#2806#0" expanded="true" />
+            <element signature="e#2890#3044#0" expanded="true" />
+            <element signature="e#3371#3858#0" expanded="true" />
+            <element signature="e#3430#3616#0" expanded="true" />
+            <element signature="e#3644#3856#0" expanded="true" />
+            <element signature="e#3891#4433#0" expanded="true" />
+            <element signature="e#3951#4092#0" expanded="true" />
+            <element signature="e#4120#4431#0" expanded="true" />
+            <element signature="e#4462#4907#0" expanded="true" />
+            <element signature="e#4514#4643#0" expanded="true" />
+            <element signature="e#4671#4905#0" expanded="true" />
+            <element signature="e#4939#5387#0" expanded="true" />
+            <element signature="e#4991#5123#0" expanded="true" />
+            <element signature="e#5151#5385#0" expanded="true" />
+            <element signature="n#!!block;n#drawFunc#0" expanded="true" />
+            <element signature="n#!!block;n#clearAllFunc#0" expanded="true" />
+            <element signature="n#!!block;n#clearFunc#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="15946">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. 2D-Geometry-Structure-Pseudo-Classical-Model/2D_Geometry_Classical_Model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1479" max-vertical-offset="2108">
+          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
+          <folding>
+            <element signature="e#91#559#0" expanded="true" />
+            <element signature="e#147#401#0" expanded="true" />
+            <element signature="e#458#529#0" expanded="true" />
+            <element signature="e#595#1147#0" expanded="true" />
+            <element signature="e#644#783#0" expanded="true" />
+            <element signature="e#948#1116#0" expanded="true" />
+            <element signature="e#1187#1835#0" expanded="true" />
+            <element signature="e#1246#1418#0" expanded="true" />
+            <element signature="e#1595#1801#0" expanded="true" />
+            <element signature="e#1874#2478#0" expanded="true" />
+            <element signature="e#1933#2053#0" expanded="true" />
+            <element signature="e#2226#2445#0" expanded="true" />
+            <element signature="e#2513#3035#0" expanded="true" />
+            <element signature="e#2560#2672#0" expanded="true" />
+            <element signature="e#2829#3006#0" expanded="true" />
+            <element signature="e#3123#3235#0" expanded="true" />
+            <element signature="e#3404#3581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. 2D-Geometry-Structure-Prototypal-Model/2D_Geometry_Prototypal_Model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1193" max-vertical-offset="1955">
+          <caret line="88" column="2" selection-start-line="88" selection-start-column="2" selection-end-line="88" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#94#296#0" expanded="true" />
+            <element signature="e#312#3257#0" expanded="true" />
+            <element signature="e#331#786#0" expanded="true" />
+            <element signature="e#395#665#0" expanded="true" />
+            <element signature="e#705#780#0" expanded="true" />
+            <element signature="e#820#1260#0" expanded="true" />
+            <element signature="e#876#1050#0" expanded="true" />
+            <element signature="e#1090#1254#0" expanded="true" />
+            <element signature="e#1299#1820#0" expanded="true" />
+            <element signature="e#1362#1572#0" expanded="true" />
+            <element signature="e#1612#1814#0" expanded="true" />
+            <element signature="e#1858#2340#0" expanded="true" />
+            <element signature="e#1922#2079#0" expanded="true" />
+            <element signature="e#2119#2334#0" expanded="true" />
+            <element signature="e#2374#2794#0" expanded="true" />
+            <element signature="e#2430#2575#0" expanded="true" />
+            <element signature="e#2615#2788#0" expanded="true" />
+            <element signature="e#2831#3254#0" expanded="true" />
+            <element signature="e#2887#3035#0" expanded="true" />
+            <element signature="e#3075#3248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. 2D-Geometry-Canvas/2D_Geometry_Canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2349" max-vertical-offset="2805">
+          <caret line="157" column="47" selection-start-line="157" selection-start-column="47" selection-end-line="157" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#395#790#0" expanded="true" />
+            <element signature="e#455#685#0" expanded="true" />
+            <element signature="e#721#788#0" expanded="true" />
+            <element signature="e#820#1407#0" expanded="true" />
+            <element signature="e#872#1026#0" expanded="true" />
+            <element signature="e#1062#1214#0" expanded="true" />
+            <element signature="e#1242#1405#0" expanded="true" />
+            <element signature="e#1441#2055#0" expanded="true" />
+            <element signature="e#1500#1686#0" expanded="true" />
+            <element signature="e#1722#1912#0" expanded="true" />
+            <element signature="e#1940#2053#0" expanded="true" />
+            <element signature="e#2088#2767#0" expanded="true" />
+            <element signature="e#2148#2289#0" expanded="true" />
+            <element signature="e#2325#2528#0" expanded="true" />
+            <element signature="e#2556#2765#0" expanded="true" />
+            <element signature="e#2796#3338#0" expanded="true" />
+            <element signature="e#2848#2977#0" expanded="true" />
+            <element signature="e#3013#3174#0" expanded="true" />
+            <element signature="e#3202#3336#0" expanded="true" />
+            <element signature="e#3370#3915#0" expanded="true" />
+            <element signature="e#3422#3554#0" expanded="true" />
+            <element signature="e#3590#3751#0" expanded="true" />
+            <element signature="e#3779#3913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. 2D-Geometry-Canvas/2D_Geometry_Canvas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="15946">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. 2D-Geometry-Structure-Pseudo-Classical-Model/2D_Geometry_Classical_Model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1479" max-vertical-offset="2108">
+          <caret line="88" column="8" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
+          <folding>
+            <element signature="e#91#559#0" expanded="true" />
+            <element signature="e#147#401#0" expanded="true" />
+            <element signature="e#458#529#0" expanded="true" />
+            <element signature="e#595#1147#0" expanded="true" />
+            <element signature="e#644#783#0" expanded="true" />
+            <element signature="e#948#1116#0" expanded="true" />
+            <element signature="e#1187#1835#0" expanded="true" />
+            <element signature="e#1246#1418#0" expanded="true" />
+            <element signature="e#1595#1801#0" expanded="true" />
+            <element signature="e#1874#2478#0" expanded="true" />
+            <element signature="e#1933#2053#0" expanded="true" />
+            <element signature="e#2226#2445#0" expanded="true" />
+            <element signature="e#2513#3035#0" expanded="true" />
+            <element signature="e#2560#2672#0" expanded="true" />
+            <element signature="e#2829#3006#0" expanded="true" />
+            <element signature="e#3123#3235#0" expanded="true" />
+            <element signature="e#3404#3581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. 2D-Geometry-Structure-Prototypal-Model/2D_Geometry_Prototypal_Model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1193" max-vertical-offset="1955">
+          <caret line="88" column="2" selection-start-line="88" selection-start-column="2" selection-end-line="88" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#94#296#0" expanded="true" />
+            <element signature="e#312#3257#0" expanded="true" />
+            <element signature="e#331#786#0" expanded="true" />
+            <element signature="e#395#665#0" expanded="true" />
+            <element signature="e#705#780#0" expanded="true" />
+            <element signature="e#820#1260#0" expanded="true" />
+            <element signature="e#876#1050#0" expanded="true" />
+            <element signature="e#1090#1254#0" expanded="true" />
+            <element signature="e#1299#1820#0" expanded="true" />
+            <element signature="e#1362#1572#0" expanded="true" />
+            <element signature="e#1612#1814#0" expanded="true" />
+            <element signature="e#1858#2340#0" expanded="true" />
+            <element signature="e#1922#2079#0" expanded="true" />
+            <element signature="e#2119#2334#0" expanded="true" />
+            <element signature="e#2374#2794#0" expanded="true" />
+            <element signature="e#2430#2575#0" expanded="true" />
+            <element signature="e#2615#2788#0" expanded="true" />
+            <element signature="e#2831#3254#0" expanded="true" />
+            <element signature="e#2887#3035#0" expanded="true" />
+            <element signature="e#3075#3248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. 2D-Geometry-Canvas/2D_Geometry_Canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2349" max-vertical-offset="2805">
+          <caret line="157" column="47" selection-start-line="157" selection-start-column="47" selection-end-line="157" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#395#790#0" expanded="true" />
+            <element signature="e#455#685#0" expanded="true" />
+            <element signature="e#721#788#0" expanded="true" />
+            <element signature="e#820#1407#0" expanded="true" />
+            <element signature="e#872#1026#0" expanded="true" />
+            <element signature="e#1062#1214#0" expanded="true" />
+            <element signature="e#1242#1405#0" expanded="true" />
+            <element signature="e#1441#2055#0" expanded="true" />
+            <element signature="e#1500#1686#0" expanded="true" />
+            <element signature="e#1722#1912#0" expanded="true" />
+            <element signature="e#1940#2053#0" expanded="true" />
+            <element signature="e#2088#2767#0" expanded="true" />
+            <element signature="e#2148#2289#0" expanded="true" />
+            <element signature="e#2325#2528#0" expanded="true" />
+            <element signature="e#2556#2765#0" expanded="true" />
+            <element signature="e#2796#3338#0" expanded="true" />
+            <element signature="e#2848#2977#0" expanded="true" />
+            <element signature="e#3013#3174#0" expanded="true" />
+            <element signature="e#3202#3336#0" expanded="true" />
+            <element signature="e#3370#3915#0" expanded="true" />
+            <element signature="e#3422#3554#0" expanded="true" />
+            <element signature="e#3590#3751#0" expanded="true" />
+            <element signature="e#3779#3913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. 2D-Geometry-Canvas/2D_Geometry_Canvas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="15946">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="15946">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Canvas-Geometry-API/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. 2D-Geometry-Structure-Pseudo-Classical-Model/2D_Geometry_Classical_Model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2261">
+          <caret line="102" column="48" selection-start-line="102" selection-start-column="48" selection-end-line="102" selection-end-column="48" />
+          <folding>
+            <element signature="e#91#559#0" expanded="true" />
+            <element signature="e#147#401#0" expanded="true" />
+            <element signature="e#458#529#0" expanded="true" />
+            <element signature="e#595#1147#0" expanded="true" />
+            <element signature="e#644#783#0" expanded="true" />
+            <element signature="e#948#1116#0" expanded="true" />
+            <element signature="e#1187#1835#0" expanded="true" />
+            <element signature="e#1246#1418#0" expanded="true" />
+            <element signature="e#1595#1801#0" expanded="true" />
+            <element signature="e#1874#2478#0" expanded="true" />
+            <element signature="e#1933#2053#0" expanded="true" />
+            <element signature="e#2226#2445#0" expanded="true" />
+            <element signature="e#2513#3035#0" expanded="true" />
+            <element signature="e#2560#2672#0" expanded="true" />
+            <element signature="e#2829#3006#0" expanded="true" />
+            <element signature="e#3123#3235#0" expanded="true" />
+            <element signature="e#3404#3581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. 2D-Geometry-Structure-Prototypal-Model/2D_Geometry_Prototypal_Model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1652" max-vertical-offset="2040">
+          <caret line="114" column="37" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#94#296#0" expanded="true" />
+            <element signature="e#312#3257#0" expanded="true" />
+            <element signature="e#331#786#0" expanded="true" />
+            <element signature="e#395#665#0" expanded="true" />
+            <element signature="e#705#780#0" expanded="true" />
+            <element signature="e#820#1260#0" expanded="true" />
+            <element signature="e#876#1050#0" expanded="true" />
+            <element signature="e#1090#1254#0" expanded="true" />
+            <element signature="e#1299#1820#0" expanded="true" />
+            <element signature="e#1362#1572#0" expanded="true" />
+            <element signature="e#1612#1814#0" expanded="true" />
+            <element signature="e#1858#2340#0" expanded="true" />
+            <element signature="e#1922#2079#0" expanded="true" />
+            <element signature="e#2119#2334#0" expanded="true" />
+            <element signature="e#2374#2794#0" expanded="true" />
+            <element signature="e#2430#2575#0" expanded="true" />
+            <element signature="e#2615#2788#0" expanded="true" />
+            <element signature="e#2831#3254#0" expanded="true" />
+            <element signature="e#2887#3035#0" expanded="true" />
+            <element signature="e#3075#3248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. 2D-Geometry-Canvas/2D_Geometry_Canvas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="272">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. 2D-Geometry-Canvas/2D_Geometry_Canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2618">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#395#790#0" expanded="true" />
+            <element signature="e#455#685#0" expanded="true" />
+            <element signature="e#721#788#0" expanded="true" />
+            <element signature="e#820#1407#0" expanded="true" />
+            <element signature="e#872#1026#0" expanded="true" />
+            <element signature="e#1062#1214#0" expanded="true" />
+            <element signature="e#1242#1405#0" expanded="true" />
+            <element signature="e#1441#2055#0" expanded="true" />
+            <element signature="e#1500#1686#0" expanded="true" />
+            <element signature="e#1722#1912#0" expanded="true" />
+            <element signature="e#1940#2053#0" expanded="true" />
+            <element signature="e#2088#2767#0" expanded="true" />
+            <element signature="e#2148#2289#0" expanded="true" />
+            <element signature="e#2325#2528#0" expanded="true" />
+            <element signature="e#2556#2765#0" expanded="true" />
+            <element signature="e#2796#3338#0" expanded="true" />
+            <element signature="e#2848#2977#0" expanded="true" />
+            <element signature="e#3013#3174#0" expanded="true" />
+            <element signature="e#3202#3336#0" expanded="true" />
+            <element signature="e#3370#3915#0" expanded="true" />
+            <element signature="e#3422#3554#0" expanded="true" />
+            <element signature="e#3590#3751#0" expanded="true" />
+            <element signature="e#3779#3913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Canvas-Geometry-API/2D_Geometry_API.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="918">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. Canvas-Geometry-API/2D_Geometry_API.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6359102" vertical-offset="1632" max-vertical-offset="4777">
+          <caret line="113" column="24" selection-start-line="113" selection-start-column="24" selection-end-line="113" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc;n#selectFunc#0" expanded="false" />
+            <element signature="n#!!block;n#selectFunc#0" expanded="true" />
+            <element signature="e#2298#2500#0" expanded="true" />
+            <element signature="e#2516#2808#0" expanded="true" />
+            <element signature="e#2576#2806#0" expanded="true" />
+            <element signature="e#2890#3044#0" expanded="true" />
+            <element signature="e#3371#3858#0" expanded="true" />
+            <element signature="e#3430#3616#0" expanded="true" />
+            <element signature="e#3644#3856#0" expanded="true" />
+            <element signature="e#3891#4433#0" expanded="true" />
+            <element signature="e#3951#4092#0" expanded="true" />
+            <element signature="e#4120#4431#0" expanded="true" />
+            <element signature="e#4462#4907#0" expanded="true" />
+            <element signature="e#4514#4643#0" expanded="true" />
+            <element signature="e#4671#4905#0" expanded="true" />
+            <element signature="e#4939#5387#0" expanded="true" />
+            <element signature="e#4991#5123#0" expanded="true" />
+            <element signature="e#5151#5385#0" expanded="true" />
+            <element signature="n#!!block;n#drawFunc#0" expanded="true" />
+            <element signature="n#!!block;n#clearAllFunc#0" expanded="true" />
+            <element signature="n#!!block;n#clearFunc#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
