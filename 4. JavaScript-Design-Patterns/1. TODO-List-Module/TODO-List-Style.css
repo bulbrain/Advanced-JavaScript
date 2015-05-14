@@ -1,0 +1,49 @@
+body {
+    background-color: beige;
+    border: none;
+}
+
+h1 {
+    text-align: center;
+    margin: 5px;
+}
+
+h2 {
+    text-align: right;
+    margin-right: 10px;
+}
+
+#wrapper {
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.sectionContainer {
+    border-bottom: double;
+}
+
+.addNewItem {
+    margin-left: 140px;
+    margin-bottom: 10px;
+}
+
+#container {
+    height: 600px;
+}
+
+#sectionContainer {
+    border-style: double;
+}
+
+input[type="checkbox"]:checked + label {
+    background-color: #00cd00;
+}
+
+.itemCont {
+    border-bottom: 1px solid black;
+}
+
+#newSectionField {
+    margin-top: 10px;
+    margin-left: 10px;
+}
